@@ -1,2 +1,3 @@
-  name: Ellis Anderson, Adventure Journal
-	markdown: kramdown
+name: Ellis Anderson, Adventure Journal
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title

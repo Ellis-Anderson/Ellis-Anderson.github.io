@@ -4,7 +4,7 @@ title: "The Taste of Travel"
 date: 2016-02-02
 ---
 
-## The Taste of Travel
+![The Taste of Travel](/images/tastetraveltitle.png "The Taste of Travel")
 
 When I first moved to Sweden, the last thing I thought was that a country famous for potatoes and meatballs would be one of the most influential stops in my culinary journey. Sweden isn’t exactly a place people think of when they talk about fine dining — they think of France or Spain, and souffles or reductions, not fermented herring or cinnamon rolls. Either way, moving to Sweden became a hugely formative experience for my inner chef.
 

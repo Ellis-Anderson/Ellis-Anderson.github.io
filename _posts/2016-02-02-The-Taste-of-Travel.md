@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: no-title-post
 title: "The Taste of Travel"
 date: 2016-02-02
 ---

@@ -12,7 +12,7 @@ If you’re into food, anywhere can be a food mecca. The love of new tastes and 
 
 My culinary experience in Sweden started as soon as my flight landed — after 14 hours on a plane all I was thinking about was food anyways. I immediately grabbed some smörgås (Swedish open faced sandwiches) from a concession stand before making my way to my hotel. The next morning the hotel offered a full Swedish breakfast buffet. They had herring, Swedish cracker-bread, among many other Swedish delicacies.
 
-![Matjes Sushi](/images/tastetravel1 "Matjes Sushi")
+![Matjes Sushi](/images/tastetravel1.jpg "Matjes Sushi")
 
 Everything was delicious and I left feeling filled and exceptionally Swedish, it was perfect. As I checked out of the airport hotel I had a conversation about my breakfast with the hotel clerk. He noted my Swedish last name and the fact that I couldn’t speak Swedish before he asked me my opinion of the food. Naturally, I told him it was delicious and I listed off all the different things I had tried. When I mentioned the herring his face turned white.
 
@@ -40,7 +40,7 @@ While we each had to head a lunch a month, both Hampus and I found ourselves in 
 
 As the weeks went by we continually tried to outdoor ourselves, with Hampus teaching me Swedish culinary main stays, while I tried to introduce Swedes to American style food, including a thanksgiving meal with 5 roast turkeys.
 
-![Lunch](/images/tastetravel3 "Lunch")
+![Lunch](/images/tastetravel3.jpg "Lunch")
 
 The two of us taught each other new skills, and spending so much time in the kitchen, I finally learned how to really handle a knife and developed a much better sense of taste. Sweden really gave me an opportunity to develop my cooking skills while introducing me to tastes and styles I would never have gotten to try in California.
 
@@ -48,7 +48,7 @@ My culinary journey didn’t stop with my work as a cook, though. Some of my fav
 
 The most memorable meal I had though, was at Gåsafesten ball, or The Goose Ball. Goose is a traditional Scanian delicacy and the Ball, which only occurs every five years, celebrates the splitting of the five Scanian unions. Me and 499 other students, decked out in white tie attire, arrived at a giant castle for our night of festivities. Courses included Goose blood soup, Goose breast, and Key-lime pie (for some reason Swedes love key lime pie), filled with singing, live entertainment and speeches.
 
-![Gasafesten](/images/tastetravel4 "Gasafesten")
+![Gasafesten](/images/tastetravel4.jpg "Gasafesten")
 
 Afterwards the guests enjoyed a fireworks display before enjoying a “second-dinner” of smörgåstårta (sandwich cake), with more dancing to Swedish pop and dancing on tables. We found out later 400 chairs were destroyed throughout the course of the night, and that was before the event opened up to the public.
 

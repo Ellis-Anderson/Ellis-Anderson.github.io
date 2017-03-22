@@ -17,6 +17,7 @@
 }
 .navbar {
     border: none;
+    background-color: pink;
 }
 .header {
     font-size: 300%;

@@ -7,29 +7,30 @@
 			<link rel="stylesheet" type="text/css" href="/css/custom.css">
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
 		</head>
-		<body>
-			<nav class="navbar navbar-default" data-spy="affix" data-offset-top="200">
+		<body data-spy="scroll" data-target=".navbar" data-offset="50">
+		<div class="container-fluid">
+			<nav class="navbar navbar-default" role="navigation">
+				<div class="navbar-header header-main">
+					<a class="navbar-brand header" href="#">Ellis Anderson</a>
+				</div>
+				<div class="navbar-header">
+					<a class="navbar-brand" href="#">Bioinformaticist and Entrepenuer</a>
+				</div>
+			</nav>
+		</div>
+			<nav class="navbar navbar-default" data-spy="affix" data-offset-top="197">
 			  <div class="container-fluid">
-			    <!-- Brand and toggle get grouped for better mobile display -->
 			    <div class="navbar-header">
-			      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+			      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="ellis-navbar" aria-expanded="false">
 			        <span class="sr-only">Toggle navigation</span>
 			        <span class="icon-bar"></span>
 			        <span class="icon-bar"></span>
 			        <span class="icon-bar"></span>
 			      </button>
-						<nav class="navbar navbar-default" role="navigation">
-						  <div class="navbar-header header-main">
-						    <a class="navbar-brand header" href="#">Ellis Anderson</a>
-						  </div>
-							<div class="navbar-header">
-						    <a class="navbar-brand" href="#">Bioinformaticist and Entrepenuer</a>
-						  </div>
-						</nav>
 			    </div>
 
 			    <!-- Collect the nav links, forms, and other content for toggling -->
-					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					<div class="collapse navbar-collapse" id="ellis-navbar">
 			      <ul class="nav navbar-nav">
 							<li><a href="/">Home</a></li>
 			        <li><a href="/about/tep-1.html">About</a></li>

@@ -16,14 +16,12 @@
 }
 .header-main {
     padding-top: 45px;
-    float: left;
     padding: 15px;
     text-align: center;
     width: 100%;
-    background-color: aliceblue;
 }
 .header-main h1 h4 {
-    color: #777;  
+    color: #777;
 }
 .navbar {
     border: none;

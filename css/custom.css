@@ -3,9 +3,18 @@
     text-align: center;
 }
 .navbar-nav li {
-      float: none;
-      display: inline-block;
+    float: none;
+    display: inline-block;
 }
 .navbar-brand {
-  text-align: center;
+    float: none;
+}
+.navbar-header {
+    float: left;
+    padding: 15px;
+    text-align: center;
+    width: 100%;
+}
+.header {
+    font-size: 200%;
 }

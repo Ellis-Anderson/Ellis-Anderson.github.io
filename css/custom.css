@@ -49,7 +49,7 @@ body {
       position: relative;
 }
 .affix {
-      top:0;
+      top:25;
       width: 100%;
       z-index: 9999 !important;
 }

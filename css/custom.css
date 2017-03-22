@@ -17,8 +17,9 @@
 }
 .navbar {
     border: none;
-    font-family: impact;
+    letter-spacing: 3px;
 }
 .header {
     font-size: 300%;
+    font-family: impact;
 }

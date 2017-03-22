@@ -27,6 +27,9 @@
     font-size: 300%;
     font-family: impact;
 }
+#ellis-navbar {
+  background-color: red;
+}
 #footer-bar {
   background-color: aliceblue;
   letter-spacing: 3px;

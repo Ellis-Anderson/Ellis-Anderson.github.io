@@ -58,5 +58,6 @@ body {
       margin-bottom: 0px;
 }
 .affix ~ .container-fluid {
+     position: absolute;
      top: 50px;
 }

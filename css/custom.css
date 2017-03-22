@@ -27,3 +27,9 @@
     font-size: 300%;
     font-family: impact;
 }
+#footer-bar {
+  background-color: aliceblue;
+}
+#footer-bar h1 {
+  color: #777
+}

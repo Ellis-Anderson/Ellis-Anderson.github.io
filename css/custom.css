@@ -21,6 +21,7 @@
 .navbar {
     border: none;
     letter-spacing: 3px;
+    background-color: aliceblue;
 }
 .header {
     font-size: 300%;

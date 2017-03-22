@@ -48,5 +48,5 @@ body {
 }
 .affix ~ .container-fluid {
      position: relative;
-     top: 35px;
+     top: 10px;
 }

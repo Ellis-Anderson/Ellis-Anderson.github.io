@@ -33,6 +33,14 @@
     padding-top: 10px;
     padding-bottom: 20px;
 }
+.nav-wrapper{
+    height: 50px;
+}
+.stick {
+  position:fixed;
+  top:0px;
+  width: 100%;
+}
 #ellis-navbar {
   padding-top: 5px;
   background-color: aliceblue;

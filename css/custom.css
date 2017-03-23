@@ -57,7 +57,7 @@ body {
 .navbar {
       margin-bottom: 0px;
 }
-#nav {
+.affix ~ .container-fluid {
      position: relative;
      margin-top: 50px;
 }

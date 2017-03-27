@@ -74,7 +74,8 @@ body {
     color: #777;
 }
 .posts p{
-    font-size: 100%;
+    font-size: 50%;
+    color: black;
 }
 .grey {
     color: #777;

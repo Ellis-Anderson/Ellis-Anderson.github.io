@@ -8,8 +8,8 @@ title: My Projects
 		<p class="grey">Read a little about the different projects I'm currently involved in or have worked on in the past<p>
 	</div>
 </div>
-<div class="row">
-	<ul class="posts text-center">
+<div class="row text-center">
+	<ul class="posts">
 	  {% for post in site.posts %}
 	    <li>
 				<span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>

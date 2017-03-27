@@ -4,12 +4,17 @@ title: My Projects
 ---
 <div class="row">
 	<div class="col-xs-12 text-center">
-		<h1>{{ page.title }}</h1>
+		<h1 class="grey">{{ page.title }}</h1>
+		<p class="grey">Read a little about the different projects I'm currently involved in or have worked on in the past<p>
 	</div>
 </div>
-	<ul class="posts">
-
+<div class="row">
+	<ul class="posts text-center">
 	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	    <li>
+				<span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+				{{post.excerpt}}
+			</li>
 	  {% endfor %}
 	</ul>
+</div>

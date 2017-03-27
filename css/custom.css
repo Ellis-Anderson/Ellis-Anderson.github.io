@@ -72,6 +72,9 @@ body {
 .posts {
   font-size: 200%;
 }
+.posts span{
+  color: #777;
+}
 .grey {
   color: #777;
 }

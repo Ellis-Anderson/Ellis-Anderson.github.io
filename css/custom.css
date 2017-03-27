@@ -69,13 +69,16 @@ body {
      position: relative;
      margin-top: 50px;
 }
-.posts a{
-  font-size: 200%;
+.posts{
+    font-size: 200%;
+    color: #777;
 }
-.posts span{
-  font-size: 200%;
-  color: #777;
+.posts p{
+    font-size: 100%;
 }
 .grey {
-  color: #777;
+    color: #777;
+}
+.posts li{
+    margin: 5px;
 }
